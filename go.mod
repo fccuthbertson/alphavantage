@@ -1,4 +1,4 @@
-module github.com/SimpleApplicationsOrg/stock
+module github.com/fccuthbertson/alphavantage
 
 go 1.17
 
